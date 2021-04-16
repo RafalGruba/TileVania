@@ -230,9 +230,9 @@ MonoBehaviour:
   m_LayerIndex: 0
   m_ShowDebugText: 0
   m_ChildCameras:
-  - {fileID: 7742385169636067707}
-  - {fileID: 1154945782137875623}
-  - {fileID: 244390271}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   m_Instructions:
   - m_FullHash: -1661602188
     m_VirtualCamera: {fileID: 1154945782137875623}
@@ -252,13 +252,7 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   m_CustomBlends: {fileID: 11400000, guid: df22e75485db59e47bd1610dcfc47015, type: 2}
-  m_ParentHash:
-  - m_Hash: -1661602188
-    m_ParentHash: 756556552
-  - m_Hash: 1581163306
-    m_ParentHash: 756556552
-  - m_Hash: -667822070
-    m_ParentHash: 756556552
+  m_ParentHash: []
 --- !u!1 &6284121305300151709
 GameObject:
   m_ObjectHideFlags: 0
